@@ -1,4 +1,4 @@
-### Hi, I'm Gracia 👋
+### 👋 Hi, I'm Gracia 
 
 With three years of experience in software development and architecture, I am now pursuing a career in Machine Learning. 
 As a results-oriented entry-level machine learning engineer, I have a strong foundation in developing and implementing machine learning models. 
