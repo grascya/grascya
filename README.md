@@ -2,7 +2,7 @@
 
 With three years of experience in software development and architecture, I am now pursuing a career in Machine Learning. 
 As a results-oriented entry-level machine learning engineer, I have a strong foundation in developing and implementing machine learning models. 
-I am a leader with a proven ability to deliver effective solutions <br>
+I am a leader with a proven ability to deliver effective solutions. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/graciamantinetidatoa) 
