@@ -1,8 +1,6 @@
 ### 👋 Hi, I'm Gracia 
 
-With three years of experience in software development and architecture, I am now pursuing a career in Machine Learning. 
-As a results-oriented entry-level machine learning engineer, I have a strong foundation in developing and implementing machine learning models. 
-I am a leader with a proven ability to deliver effective solutions. <br>
+With over three years of experience in software development and architecture, I am now advancing my career in Machine Learning and AI. I specialize in designing and implementing models using TensorFlow, PyTorch, Scikit-learn, and AI SDK to solve real-world problems. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/graciamantinetidatoa) 
